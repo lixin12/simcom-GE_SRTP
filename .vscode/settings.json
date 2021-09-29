@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "cstddef": "cpp",
+        "modbustcp.h": "c",
+        "siemens_s7.h": "c",
+        "type.h": "c",
+        "simcom_lbs.h": "c",
+        "GE_SRTP.h": "c",
+        "ge_srtp.h": "c",
+        "inet.h": "c"
+    }
+}
